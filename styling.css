@@ -1,0 +1,17 @@
+.logo {
+    width: 500px;
+    height: auto;
+}
+.big-1 {
+    color: rgb(41, 38, 38);
+    font-style:italic;
+    }
+.big-2 {
+    color: gold;
+    font-size: 2rem;
+    font-weight: bold;  
+}
+.big-3 {
+    color: gold;
+    font-style:italic;
+}
